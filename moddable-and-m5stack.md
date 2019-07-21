@@ -1,8 +1,18 @@
-Moddableとは
+* 自己紹介
+  * M5Stack-Avatarの人
+  * Web/Frontendから見たり触ったり
+  
+---
 
-背景
+# Moddableとは
 
-特徴
+---
+
+## 背景
+
+---
+
+## 特徴
 
 * Almost full support of ECMAScript
 * Portability
@@ -10,13 +20,19 @@ Moddableとは
 * UI friendly
   * 
 
-インストール
+---
 
-コード例
+## インストール
+
+詳しくは公式ドキュメント or kosaka氏のインストーラ
 
 ---
 
-他PFとの比較
+## コード例
+
+---
+
+## 他PFとの比較
 
 * stand alone v.s. remote controlled
 * Language
@@ -25,7 +41,7 @@ Moddableとは
 
 ---
 
-JS資産の活用
+## JS資産の活用
 
 * Node.js, ブラウザのライブラリ -> そのまま使うのは難しい
   * ブラウザAPI（≠ECMAScript）との非互換
@@ -35,11 +51,16 @@ JS資産の活用
 
 ---
 
-やったこと
+## やったこと
 
 ---
 
-所感
+## 所感
+
+---
+
+* 奇しくも同じくらいのスター数
+* 
 
 ---
 
