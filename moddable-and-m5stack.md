@@ -1,53 +1,95 @@
-* 自己紹介
-  * M5Stack-Avatarの人
-  * Web/Frontendから見たり触ったり
+# Me
+  * M5Stack-Avatar
+  * On a long journey of Human Computer Interaction
   
 ---
 
-# Moddableとは
+# Moddable
+
+One of the JavaScript SDKs for microcontrollers,
+
+* Offline ready
+* Almost full support of the latest ECMAScript features
+* Portablility
+* UI Friendly
 
 ---
 
-## 背景
+## Installation
+
+* A little complicated for newbies
+* Installer script by @kosaka is available
 
 ---
 
-## 特徴
+# My Progress
 
-* Almost full support of ECMAScript
-* Portability
-  * 
-* UI friendly
-  * 
+## Summary
 
----
-
-## インストール
-
-詳しくは公式ドキュメント or kosaka氏のインストーラ
+* Applied JavaScript devtools - an experiment
+* M5StickC support
+* Samples! more samples!
+* Developer relationship
 
 ---
 
-## コード例
+## Applied JavaScript devtools
+
+Applicable for Moddable
+
+* TypeScript
+* ESLint
+* Prettier
+
+* Wrote type declerations and rc files
+* Published as project boilerplate
+  * https://github.com/meganetaaan/moddable-boilerplate
 
 ---
 
-## 他PFとの比較
+### Are Libraries on npm available?
 
-* stand alone v.s. remote controlled
-* Language
-  * micro python
-  * mruby
+No :(
+
+* Imcompatible with WHATWG Standards（≠ECMAScript）
+  * No canvas, svg, fetch etc.
+* Limited amount of memory
 
 ---
 
-## JS資産の活用
+## Added M5StickC support
 
-* Node.js, ブラウザのライブラリ -> そのまま使うのは難しい
-  * ブラウザAPI（≠ECMAScript）との非互換
-  * 限られたメモリ
-* Linter&Formatter -> 使える！
-* TypeScript -> 使える！
+### Hmm
+
+---
+
+### Okay...
+
+---
+
+### Done
+
+---
+
+## Samples
+
+---
+
+### bongo cat
+
+---
+
+### Sensors
+
+---
+
+### BLE
+
+---
+
+## Developer relations
+
+---
 
 ---
 
@@ -55,12 +97,11 @@
 
 ---
 
-## 所感
+## M5Stack ♡ Moddable
 
----
-
-* 奇しくも同じくらいのスター数
-* 
+* Ultra fast development
+* Growing stars
+* Well considered appearance
 
 ---
 
@@ -70,6 +111,15 @@ Moddableはいいぞ
 
 ---
 
+https://github.com/kimio-kosaka/Moddable_fun/tree/master/Installer
 告知
 
 技術書典7でModdableSDK + M5Stackの本を頒布します
+
+## おまけ
+
+* Moddable supports touch screens but M5Stack doesn't
+
+## !?!?!?
+
+## I'll be in touch
