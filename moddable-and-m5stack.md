@@ -23,7 +23,9 @@ One of the JavaScript SDKs for microcontrollers,
 
 ---
 
-# My Progress
+# My Progress on Moddable
+
+---
 
 ## Summary
 
@@ -94,9 +96,12 @@ No :(
 
 ---
 
+# My Future work on Moddable
+
 ---
 
-## やったこと
+###  M5Stack x Moddable SDK fan book
+  * on the next TechBookFest (Sep 22nd)
 
 ---
 
@@ -106,16 +111,16 @@ No :(
 * Growing stars
 * Well considered appearance
 
-### WIP
+---
 
-* Moddable SDK fan book
-  * on the next TechBookFest (Sep 22nd)
-* 
+# One more thing
 
-## One more thing
+---
+
+## Touch
 
 * Moddable supports touch screens but M5Stack doesn't
 
-## !?!?!?
+---
 
-## I'll be in touch...Will be o
+## I'll be in touch...
