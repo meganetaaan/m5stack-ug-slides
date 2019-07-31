@@ -19,6 +19,7 @@ One of the JavaScript SDKs for microcontrollers,
 
 * A little complicated for newbies
 * Installer script by @kosaka is available
+  * https://github.com/kimio-kosaka/Moddable_fun/tree/master/Installer
 
 ---
 
@@ -85,6 +86,8 @@ No :(
 
 ### BLE
 
+* LINE Things starter
+
 ---
 
 ## Developer relations
@@ -103,23 +106,16 @@ No :(
 * Growing stars
 * Well considered appearance
 
----
+### WIP
 
-結論
+* Moddable SDK fan book
+  * on the next TechBookFest (Sep 22nd)
+* 
 
-Moddableはいいぞ
-
----
-
-https://github.com/kimio-kosaka/Moddable_fun/tree/master/Installer
-告知
-
-技術書典7でModdableSDK + M5Stackの本を頒布します
-
-## おまけ
+## One more thing
 
 * Moddable supports touch screens but M5Stack doesn't
 
 ## !?!?!?
 
-## I'll be in touch
+## I'll be in touch...Will be o
